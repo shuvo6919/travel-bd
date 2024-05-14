@@ -1,0 +1,25 @@
+.cart-card {
+  background: linear-gradient(135deg, #0ba7b7, #026c9f);
+  display: flex;
+  justify-content: space-between;
+  padding-right: 20px;
+  height: 100px;
+  box-shadow: 0 5px 10px 0 black;
+  overflow: hidden;
+  width: 80vw;
+  div {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    img {
+      width: 150px;
+      height: 100%;
+    }
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  h3 {
+    font-size: 16px;
+  }
+}

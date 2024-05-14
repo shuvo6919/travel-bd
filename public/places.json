@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "category_id": 4,
+    "category_name": "sea beach",
+    "name": "Cox's Bazar",
+    "img_url": "https://i.imghippo.com/files/Qk9A21714890565.jpg",
+    "travel_cost": 150,
+    "description": "Cox's Bazar is known for having the longest uninterrupted natural sandy sea beach in the world."
+  },
+  {
+    "id": 2,
+    "category_id": 2,
+    "category_name": "city",
+    "name": "Dhaka City",
+    "img_url": "https://i.imghippo.com/files/QcmK71714890608.jpg",
+    "travel_cost": 50,
+    "description": "Dhaka is the capital and largest city of Bangladesh, known for its vibrant culture, history, and bustling streets."
+  },
+  {
+    "id": 3,
+    "category_id": 3,
+    "category_name": "historical place",
+    "name": "Panam city",
+    "img_url": "https://i.imghippo.com/files/tgD9j1714890679.jpg",
+    "travel_cost": 80,
+    "description": "Panam City is a historical site in Bangladesh known for its well-preserved ancient architecture and ruins."
+  },
+  {
+    "id": 4,
+    "category_id": 3,
+    "category_name": "historical place",
+    "name": "Lalbag Killa",
+    "img_url": "https://i.imghippo.com/files/z3wci1714890702.jpg",
+    "travel_cost": 70,
+    "description": "Lalbag Killa is an incomplete Mughal fort complex in Dhaka, notable for its historical significance and architectural beauty."
+  },
+  {
+    "id": 5,
+    "category_id": 5,
+    "category_name": "waterfall",
+    "name": "Khaiachara Waterfall",
+    "img_url": "https://i.imghippo.com/files/yaGIF1714890738.jpg",
+    "travel_cost": 100,
+    "description": "Khaiachara Waterfall is a picturesque natural waterfall nestled in the hills of Bangladesh, offering a serene and refreshing experience."
+  },
+  {
+    "id": 6,
+    "category_id": 4,
+    "category_name": "sea beach",
+    "name": "Saint Martin",
+    "img_url": "https://i.imghippo.com/files/jpiNC1714890771.jpg",
+    "travel_cost": 200,
+    "description": "Saint Martin's Island is a popular tourist destination known for its stunning beaches, crystal-clear waters, and vibrant marine life."
+  },
+  {
+    "id": 7,
+    "category_id": 6,
+    "category_name": "jungle",
+    "name": "Sundarban",
+    "img_url": "https://i.imghippo.com/files/x6fnz1714890790.jpg",
+    "travel_cost": 250,
+    "description": "The Sundarbans is the largest mangrove forest in the world and a UNESCO World Heritage Site, home to diverse flora and fauna, including the Bengal tiger."
+  },
+  {
+    "id": 8,
+    "category_id": 2,
+    "category_name": "city",
+    "name": "Rajshahi City",
+    "img_url": "https://i.imghippo.com/files/Ff2Q01714890812.jpg",
+    "travel_cost": 60,
+    "description": "Rajshahi is a city known for its rich history, archaeological sites, and vibrant cultural heritage, situated on the northern banks of the Padma River."
+  },
+  {
+    "id": 9,
+    "category_id": 1,
+    "category_name": "lake",
+    "name": "Kaptai Lake",
+    "img_url": "https://i.imghippo.com/files/Xw1Bd1714890836.jpg",
+    "travel_cost": 120,
+    "description": "Kaptai Lake is the largest man-made lake in Bangladesh, surrounded by lush green hills and offering scenic boat rides."
+  },
+  {
+    "id": 10,
+    "category_id": 3,
+    "category_name": "historical place",
+    "name": "Ahsan Manjil",
+    "img_url": "https://i.imghippo.com/files/ndI3c1714890858.jpg",
+    "travel_cost": 90,
+    "description": "Ahsan Manjil is a historical palace in Dhaka, once the residence of the Nawab family and now a museum showcasing Bangladeshi history and culture."
+  },
+  {
+    "id": 11,
+    "category_id": 7,
+    "category_name": "hill",
+    "name": "Maheshkhali",
+    "img_url": "https://i.imghippo.com/files/VG8pL1714890890.jpg",
+    "travel_cost": 180,
+    "description": "Maheshkhali is a picturesque hill island near Cox's Bazar, known for its scenic beauty, ancient temples, and traditional handicrafts."
+  },
+  {
+    "id": 12,
+    "category_id": 7,
+    "category_name": "hill",
+    "name": "Panchagar",
+    "img_url": "https://i.imghippo.com/files/BlHZk1714890911.jpg",
+    "travel_cost": 170,
+    "description": "Panchagarh is a district in the Rangpur Division of Bangladesh, known for its natural beauty, including hills, rivers, and forests."
+  },
+  {
+    "id": 13,
+    "category_id": 6,
+    "category_name": "jungle",
+    "name": "Bandarban",
+    "img_url": "https://i.imghippo.com/files/aEt3y1714890422.jpg",
+    "travel_cost": 220,
+    "description": "Bandarban is a hill district in southeastern Bangladesh, famous for its lush green hills, tribal culture, and adventure tourism."
+  },
+  {
+    "id": 14,
+    "category_id": 4,
+    "category_name": "sea beach",
+    "name": "Guliakhali Sea Beach",
+    "img_url": "https://i.imghippo.com/files/FmUyy1714890936.jpg",
+    "travel_cost": 160,
+    "description": "Guliakhali Sea Beach is a serene and less crowded beach in Bangladesh, offering breathtaking views of the Bay of Bengal and tranquil surroundings."
+  },
+  {
+    "id": 15,
+    "category_id": 3,
+    "category_name": "historical place",
+    "name": "Mahasthangar",
+    "img_url": "https://i.imghippo.com/files/xCbCq1714890962.jpg",
+    "travel_cost": 85,
+    "description": "Mahasthangarh is an ancient archaeological site in Bogura District, believed to be the oldest city in Bangladesh and an important cultural and historical landmark."
+  },
+  {
+    "id": 16,
+    "category_id": 5,
+    "category_name": "waterfall",
+    "name": "Madhabkundo Waterfall",
+    "img_url": "https://i.imghippo.com/files/Z13wU1714890984.jpg",
+    "travel_cost": 110,
+    "description": "Madhabkunda Waterfall is the largest waterfall in Bangladesh, surrounded by lush green forests and offering a mesmerizing natural spectacle."
+  },
+  {
+    "id": 17,
+    "category_id": 7,
+    "category_name": "hill",
+    "name": "Srimangal",
+    "img_url": "https://i.imghippo.com/files/Wcwoy1714890997.jpg",
+    "travel_cost": 190,
+    "description": "Srimangal is a scenic hill town in northeastern Bangladesh, renowned for its tea gardens, biodiversity, and tranquil ambiance."
+  },
+  {
+    "id": 18,
+    "category_id": 5,
+    "category_name": "waterfall",
+    "name": "Mayabi Waterfall",
+    "img_url": "https://i.imghippo.com/files/jZjlH1714891033.jpg",
+    "travel_cost": 105,
+    "description": "Mayabi Waterfall is a hidden gem nestled in the forests of Bangladesh, offering a serene and refreshing escape from the bustling city life."
+  },
+  {
+    "id": 19,
+    "category_id": 4,
+    "category_name": "sea beach",
+    "name": "Kuakata Sea Beach",
+    "img_url": "https://i.imghippo.com/files/xMb171714891052.jpg",
+    "travel_cost": 140,
+    "description": "Kuakata Sea Beach is a pristine beach located in the Patuakhali district of Bangladesh, famous for its panoramic sunrise and sunset views."
+  },
+  {
+    "id": 20,
+    "category_id": 7,
+    "category_name": "hill",
+    "name": "Sajek",
+    "img_url": "https://i.imghippo.com/files/HYgLb1714891062.jpg",
+    "travel_cost": 200,
+    "description": "Sajek Valley is a popular hill resort in Bangladesh, known for its breathtaking natural beauty, indigenous communities, and adventurous trekking trails."
+  }
+]
